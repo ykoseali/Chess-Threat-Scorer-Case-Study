@@ -253,4 +253,4 @@ Ve `project` etiketi açılışı şu şemayı içermeli:
 
 ## Lisans
 
-Bu projeyi dilediğiniz gibi kullanabilirsiniz. (İsterseniz **MIT License** metni ekleyin.)
+Bu projeyi dilediğiniz gibi kullanabilirsiniz.
