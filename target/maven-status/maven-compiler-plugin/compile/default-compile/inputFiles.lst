@@ -1,0 +1,9 @@
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/App.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/board/Board.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/board/Parser.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/logic/AttackGenerator.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/logic/Scorer.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/model/Color.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/model/Piece.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/model/PieceType.java
+/Users/yigit/Desktop/ChessProject/src/main/java/com/example/chess/model/Square.java

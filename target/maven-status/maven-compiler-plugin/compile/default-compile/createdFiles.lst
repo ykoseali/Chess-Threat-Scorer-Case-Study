@@ -1,0 +1,10 @@
+com/example/chess/model/Color.class
+com/example/chess/logic/AttackGenerator$1.class
+com/example/chess/App.class
+com/example/chess/model/Square.class
+com/example/chess/logic/AttackGenerator.class
+com/example/chess/model/PieceType.class
+com/example/chess/board/Board.class
+com/example/chess/board/Parser.class
+com/example/chess/logic/Scorer.class
+com/example/chess/model/Piece.class
